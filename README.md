@@ -32,5 +32,5 @@ Every time you run `deployment.py`, it logs:
 
 Each time you run it, a new log will be added in `deployment_log.csv` ✅
 
-![Deployment Output](deploy_output.PNG)
+
 
